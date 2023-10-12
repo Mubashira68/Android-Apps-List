@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.To_Do_List" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">#9C27B0</item> <!-- Purple color for the ActionBar -->
+        <item name="colorPrimaryDark">#9C27B0</item>
+    </style>
+
+<!--    <style name="Theme.To_Do_List" parent="Base.Theme.To_Do_List" >-->
+<!--    </style>-->
+
+    <style name="Theme.NoActionBar" parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+</resources>
